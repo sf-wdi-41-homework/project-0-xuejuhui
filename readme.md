@@ -107,6 +107,16 @@ By the time you submit this project, you will have leveled-up in many big themes
 
 ###### How should I begin approaching this?
 
+### If your instructor has provided a custom link to Github Classroom for this assignment:
+
+* Follow the link to the Github Classroom: https://classroom.github.com/a/7ayS6uY4
+* After creating the new repository, copy the link to it from the "Clone" menu on the top right side of the page.
+* **On your computer,** within the 'develop' folder, create a new repository using `git init`
+* Add a remote: `git remote add origin paste_the_link_to_the_repository_here`
+* You'll need an `index.html`, `main.css`, and `main.js`. Make sure your stylesheet and JavaScript files are linked in `index.html`, and also include the CDNs you'll be using (Bootstrap, jQuery).
+
+For all other submissions:
+
 * Create a **NEW GitHub repository** from your GitHub account. Make sure you're in your `develop` folder, and create the project locally. Follow the steps to `git init` the new repo.
 * You'll need an `index.html`, `main.css`, and `main.js`. Make sure your stylesheet and JavaScript files are linked in `index.html`, and also include the CDNs you'll be using (Bootstrap, jQuery).
 
