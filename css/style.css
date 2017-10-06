@@ -1,0 +1,26 @@
+#track1{
+	background-color: pink;
+}
+#track2{
+	background-color: lime;
+}
+.container-fluid{
+	padding: 0;
+}
+.col-md-12{
+	padding: 0;
+}
+.car1{
+	 position: relative;
+	height: 100px;
+	width: 100px;
+	left: 0;
+
+}
+.car2{
+	 position: relative;
+	height: 100px;
+	width: 100px;
+	left: 0;
+
+}
